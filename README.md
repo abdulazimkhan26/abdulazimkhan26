@@ -89,8 +89,7 @@ Visitor Management, and Payroll systems using C#/ASP.NET, PostgreSQL, and Python
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazimkhan26&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdulazimkhan26&hide_border=true" height="150"/>
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdulazimkhan26&hide_border=true&layout=compact" height="150"/>
   
   
 
