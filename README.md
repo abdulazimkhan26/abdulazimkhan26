@@ -53,6 +53,9 @@ Previously interned at **Probyte Solutions Sdn Bhd**, where I built HRMS, Visito
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=flat&logo=express&logoColor=white)
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -68,14 +71,13 @@ Previously interned at **Probyte Solutions Sdn Bhd**, where I built HRMS, Visito
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-black?style=flat&logo=n8n&logoColor=white)
 
 ---
 
@@ -83,17 +85,17 @@ Previously interned at **Probyte Solutions Sdn Bhd**, where I built HRMS, Visito
 
 | Project | Description | Stack |
 |---|---|---|
-| **HRMS (Full-Stack)** | Microservices HR management system with employee CRUD, RBAC, JWT auth, and payroll | Spring Boot · Next.js 14 · PostgreSQL |
+| **Banker Portal** | A portal for bankers to automate their tasks | Express.js · Next.js 14 · PostgreSQL |
 | **Pothole Detection** | Deep learning model for road pothole detection using YOLO & Detectron2 | Python · YOLO · Detectron2 |
 | **Airport Simulation** | Concurrent airport system simulating parallel flight operations | Java · Concurrency |
 | **NLP Spam Detector** | Text analysis and sentiment analytics for spam classification | Python · NLP · Jupyter |
-| **Cafe Management System** | Full-featured cafe POS and management app | JavaScript |
+| **Cafe Management System** | Full-featured cafe POS and management app | Asp.net C# |
+| **PlusPay** Payroll management app (business specific) | Asp.net C# |
 
 ---
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazimkhan26&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdulazimkhan26&hide_border=true&layout=compact" height="150"/>
   
   
 
