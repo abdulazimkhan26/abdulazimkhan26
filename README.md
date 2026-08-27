@@ -7,7 +7,7 @@ Hi, I'm Abdul Azim Khan 👋
 
 
 
-  Junior Software Developer · Java / Spring Boot · C# / ASP.NET · Based in Kuala Lumpur 🇲🇾
+  AI Software Engineer · Express.js/Next.js · Java (Spring Boot) · Based in Kuala Lumpur 🇲🇾
 
 
 
@@ -26,18 +26,22 @@ Hi, I'm Abdul Azim Khan 👋
 
 ## 🧑‍💻 About Me
 
-CS graduate specialising in **Data Analytics** from Asia Pacific University.
-I build full-stack applications and backend systems — currently focused on
-Java/Spring Boot microservices and Next.js frontends.
+Specialising in **Data Analytics** from Asia Pacific University, currently working as an **AI Engineer** building production systems and automation.
 
-Previously interned at **Probyte Solutions Sdn Bhd**, where I built HRMS,
-Visitor Management, and Payroll systems using C#/ASP.NET, PostgreSQL, and Python.
+I work across **backend, full-stack, AI, and workflow automation**, with experience in **Express.js, Next.js, PostgreSQL, n8n, and Java/Spring Boot**.
 
-- 🎯 Targeting **Junior Java Developer** roles
-- 🏗️ Currently building a full-stack **HRMS** (Spring Boot microservices + Next.js 14)
-- 🤖 Final year project: **Pothole detection** with YOLO/Detectron2 (~87% accuracy)
-- 💡 Language-agnostic — equally comfortable in Java, C#, Python, or JavaScript
-- 📍 Kuala Lumpur, Malaysia
+Currently working on a **Banker Portal**, developing backend APIs and full-stack features using **Express.js, Next.js, and PostgreSQL**, while integrating AI and workflow automation with **n8n**.
+
+Previously interned at **Probyte Solutions Sdn Bhd**, where I built HRMS, Visitor Management, and Payroll systems using **C#/ASP.NET, PostgreSQL, and Python**.
+
+* 🤖 **AI Engineer** — building AI-powered systems, backend services, and automation
+* 🏦 Currently developing a **Banker Portal** using Express.js, Next.js, PostgreSQL, and n8n
+* ☕ Strong interest in **Java/Spring Boot microservices** and backend development
+* 🤖 Final-year project: **Pothole detection** using YOLO and Detectron2 (~87% accuracy)
+* 💡 Language-agnostic — comfortable with **Java, C#, Python, and JavaScript**
+* 🎯 Open to opportunities in **AI Engineering, Backend Development, and Junior Java Development**
+* 📍 Kuala Lumpur, Malaysia
+
 
 ---
 
