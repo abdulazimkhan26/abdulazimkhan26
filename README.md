@@ -97,6 +97,7 @@ Previously interned at **Probyte Solutions Sdn Bhd**, where I built HRMS, Visito
 ## 📊 GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazimkhan26&hide_border=true" height="150"/>
   
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37703)](https://codetime.dev)
   
 
 
